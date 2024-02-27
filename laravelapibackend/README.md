@@ -31,7 +31,7 @@ Method ```GET```
 Description: Terminates the current session and invalidates the access token.
 
 ```
-Authentication Package : Postman
+Authentication Package : Passport
 Laravel Version : 10
 MySQL Database
 Database for testing included on : DBs Folder
